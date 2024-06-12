@@ -5,7 +5,7 @@ public class Ejercicio9
         Scanner nuevoValor = new Scanner(System.in);
         int num1;
         boolean esPrimo = true;
-        System.out.println("Ingrese un numero ");
+        System.out.println("Ingrese un numero: ");
         num1 = nuevoValor.nextInt();
         for (int i = 2; i < num1 ; i++ ){
             if (num1 % 2 == 0 ){
