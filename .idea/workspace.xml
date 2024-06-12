@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d67287c9-2f20-4cd4-b26a-ecc8f8244232" name="Changes" comment="Los primeros 9 ejercicios echos de la guia 0 JAVA">
-      <change beforePath="$PROJECT_DIR$/Ejercicios/Ejercicio9.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/Ejercicio9.java" afterDir="false" />
+    <list default="true" id="d67287c9-2f20-4cd4-b26a-ecc8f8244232" name="Changes" comment="areglamos el 9">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +64,7 @@
     "Application.ejercicio1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/moise/Desktop/JavaEjercicios",
     "onboarding.tips.debug.path": "C:/Users/moise/Desktop/JavaEjercicios/src/Main.java",
@@ -131,7 +131,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718164487052</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="areglamos el 9">
+      <option name="closed" value="true" />
+      <created>1718164809960</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718164809960</updated>
+    </task>
+    <task id="LOCAL-00008" summary="areglamos el 9">
+      <option name="closed" value="true" />
+      <created>1718164821045</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718164821045</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,6 +175,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Los primeros 9 ejercicios echos de la guia 0 JAVA" />
-    <option name="LAST_COMMIT_MESSAGE" value="Los primeros 9 ejercicios echos de la guia 0 JAVA" />
+    <MESSAGE value="areglamos el 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="areglamos el 9" />
   </component>
 </project>
