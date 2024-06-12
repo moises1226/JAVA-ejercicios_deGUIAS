@@ -16,7 +16,7 @@ public class Ejercicio9
                 break;
             }
         }
-        if(esPrimo == true){
+        if(esPrimo){
             System.out.println("El numero " + num1 + " es PRIMO ");
         }
         else{
