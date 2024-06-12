@@ -1,6 +1,3 @@
-//Ejercicio 9
-//Crear un programa que pida al usuario un número entero e informe si es primo o no.
-
 import java.util.Scanner;
 public class Ejercicio9
 {
