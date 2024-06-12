@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d67287c9-2f20-4cd4-b26a-ecc8f8244232" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercios/Ejercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercios/Ejercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercios/Ejercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercios/Ejercicio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercios/Ejercicio5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercios/Ejercicio6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercios/Ejercicio7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercios/Ejercicio8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercios/Ejercicio9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaEjercicios.iml" afterDir="false" />
-    </list>
+    <list default="true" id="d67287c9-2f20-4cd4-b26a-ecc8f8244232" name="Changes" comment="Los primeros 9 ejercicios echos de la guia 0 JAVA" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +31,12 @@
         </map>
       </branch-storage>
     </excluded-from-favorite>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -68,7 +57,7 @@
     "Application.Ejercicio6.executor": "Run",
     "Application.Ejercicio7.executor": "Run",
     "Application.Ejercicio8.executor": "Run",
-    "Application.Ejercicio9.executor": "Run",
+    "Application.Ejercicio9.executor": "Debug",
     "Application.Main.executor": "Run",
     "Application.ejercicio1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -91,6 +80,27 @@
       <option name="presentableId" value="Default" />
       <updated>1718159702817</updated>
     </task>
+    <task id="LOCAL-00001" summary="Los primeros 9 ejercicios echos de la guia 0 JAVA">
+      <option name="closed" value="true" />
+      <created>1718162926751</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718162926751</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Los primeros 9 ejercicios echos de la guia 0 JAVA">
+      <option name="closed" value="true" />
+      <created>1718163086155</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718163086155</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Los primeros 9 ejercicios echos de la guia 0 JAVA" />
+    <option name="LAST_COMMIT_MESSAGE" value="Los primeros 9 ejercicios echos de la guia 0 JAVA" />
   </component>
 </project>
