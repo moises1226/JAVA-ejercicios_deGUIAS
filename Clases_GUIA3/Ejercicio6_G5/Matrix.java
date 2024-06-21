@@ -18,13 +18,85 @@ package Ejercicio6_G5;
 // Crea una matriz de rows filas y columns columas con todos los elementos inicializados a 0.
 
 
+import java.util.Scanner;
+
 public class Matrix {
 
+        int rows;
+        int columns;
+
+
+        Matrix(int rows, int columns){
+
+            this.rows = rows;
+            this.columns = columns;
+
+
+
+        }
+
+        public int getRows(){
+            return rows;
+        }
+        public void setRows(int rows){
+
+            this.rows = rows;
+        }
+        public int getColumns(){
+            return columns;
+        }
+        public void setColumns(int columns){
+
+            this.columns = columns;
+        }
+
+
+    public  void CargaMatrix(){
+
+            Scanner entrada = new Scanner(System.in);
+
+            double[][] matrix = new double[rows][columns];
+            double number;
+
+
+            for (int f = 0; f < matrix.length; f++){
+
+                for (int c = 0; c < matrix[f].length; c++){
+                    System.out.println("Ingrese el numero para la posicion: "+f+ " " + c +  " ");
+                    number = entrada.nextDouble();
+
+                    matrix[f][c] = number;
+
+
+
+                }
+
+
+
+            }
+            entrada.close();
+             System.out.println("Las matrices cargadas son: ");
+             MuestraMatrix(matrix);
 
 
 
 
+    }
+
+    public static void MuestraMatrix(double[][] matrix){
+
+            for (int i = 0; i < matrix.length; i++){
+                for (int j = 0; j < matrix[i].length; j++){
+                    System.out.print(matrix[i][j] + " ");
+                }
+                System.out.println();
+            }
+
+
+    }
 
 
 
 }
+
+
