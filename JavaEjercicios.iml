@@ -6,6 +6,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Ejercicios_GUIA-0" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JurgoDePersonajes" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Clases_GUIA3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EjerciciosMatrices_Autodic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Matrices_GUIA2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Clases_AutoDidactico" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
