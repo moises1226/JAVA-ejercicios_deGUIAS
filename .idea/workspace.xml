@@ -4,16 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d67287c9-2f20-4cd4-b26a-ecc8f8244232" name="Changes" comment="areglamos el 9">
-      <change beforePath="$PROJECT_DIR$/Ejercicios/Ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios_GUIA-0/Ejercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/Ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios_GUIA-0/Ejercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/Ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios_GUIA-0/Ejercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/Ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios_GUIA-0/Ejercicio4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/Ejercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios_GUIA-0/Ejercicio5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/Ejercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios_GUIA-0/Ejercicio6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/Ejercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios_GUIA-0/Ejercicio7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/Ejercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios_GUIA-0/Ejercicio8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/Ejercicio9.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios_GUIA-0/Ejercicio9.java" afterDir="false" />
+    <list default="true" id="d67287c9-2f20-4cd4-b26a-ecc8f8244232" name="Changes" comment="Cracion de la Carpeta Titanes Pasifico">
+      <change afterPath="$PROJECT_DIR$/Clases_GUIA3/TitanesPasficio/Creacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases_GUIA3/TitanesPasficio/Habilidades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases_GUIA3/TitanesPasficio/Jaegar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases_GUIA3/TitanesPasficio/Kaiju.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases_GUIA3/TitanesPasficio/Piloto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clases_GUIA3/Ejercicio1_G3/Escuela.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clases_GUIA3/Ejercicio1_G3/Escuela.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clases_GUIA3/Ejercicio6_G5/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clases_GUIA3/Ejercicio6_G5/Matrix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +59,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CargaDeInstancias.executor": "Run",
     "Application.Ejercicio2.executor": "Run",
     "Application.Ejercicio3.executor": "Run",
     "Application.Ejercicio4.executor": "Run",
@@ -68,13 +68,14 @@
     "Application.Ejercicio7.executor": "Run",
     "Application.Ejercicio8.executor": "Run",
     "Application.Ejercicio9.executor": "Run",
+    "Application.Escuela.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.ejercicio1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/moise/Desktop/JavaEjercicios",
+    "last_opened_file_path": "C:/Users/Alumno ET7/Desktop/JAVA-ejercicios_deGUIAS",
     "onboarding.tips.debug.path": "C:/Users/moise/Desktop/JavaEjercicios/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -163,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718166365964</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Cracion de la Carpeta Titanes Pasifico">
+      <option name="closed" value="true" />
+      <created>1719262945304</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1719262945304</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,6 +201,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Los primeros 9 ejercicios echos de la guia 0 JAVA" />
     <MESSAGE value="areglamos el 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="areglamos el 9" />
+    <MESSAGE value="Cracion de la Carpeta Titanes Pasifico" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cracion de la Carpeta Titanes Pasifico" />
   </component>
 </project>
