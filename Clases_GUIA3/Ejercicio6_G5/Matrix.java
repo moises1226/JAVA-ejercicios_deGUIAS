@@ -83,6 +83,19 @@ public class Matrix {
 
     }
 
+    public void MostrarPosicionMatriz(double fila , double colum){
+
+
+
+
+
+
+    };
+
+
+
+
+
     public static void MuestraMatrix(double[][] matrix){
 
             for (int i = 0; i < matrix.length; i++){
