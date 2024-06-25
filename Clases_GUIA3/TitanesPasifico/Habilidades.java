@@ -1,4 +1,4 @@
-package TitanesPasficio;
+package TitanesPasifico;
 
 public class Habilidades {
 
