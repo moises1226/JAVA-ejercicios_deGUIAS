@@ -31,7 +31,7 @@ public class Jaegar {
     }
 
 
-    public Boolean getesNuclear() {
+    public Boolean getEsNuclear() {
         return esNuclear;
     }
 
