@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaEjercicios.iml" filepath="$PROJECT_DIR$/JavaEjercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practicas_Matrices-Autodict/Practicas_Matrices-Autodict.iml" filepath="$PROJECT_DIR$/Practicas_Matrices-Autodict/Practicas_Matrices-Autodict.iml" />
     </modules>
   </component>
 </project>
