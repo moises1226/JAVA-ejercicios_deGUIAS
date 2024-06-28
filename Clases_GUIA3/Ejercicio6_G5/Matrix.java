@@ -18,25 +18,25 @@ package Ejercicio6_G5;
 // Crea una matriz de rows filas y columns columas con todos los elementos inicializados a 0.
 
 
+import java.util.Random;
 import java.util.Scanner;
 
 public class Matrix {
 
-        int rows;
+        private int rows;
         int columns;
+        double[][] matrix;
 
 
         Matrix(int rows, int columns){
 
             this.rows = rows;
             this.columns = columns;
-
-
-
+            this.matrix = new double[this.rows][this.columns];
         }
 
         public int getRows(){
-            return rows;
+            return this.rows;
         }
         public void setRows(int rows){
 
@@ -51,65 +51,82 @@ public class Matrix {
         }
 
 
+        public double[][] getMatrix(){
+
+            return  matrix;
+
+        };
+
+        public void setMatrix (double[][]matrix){
+
+            this.matrix = matrix;
+        };
+
     public  void CargaMatrix(){
 
-            Scanner entrada = new Scanner(System.in);
-
-            double[][] matrix = new double[rows][columns];
-            double number;
 
 
-            for (int f = 0; f < matrix.length; f++){
+            for (int f = 0; f < this.matrix.length; f++){
 
-                for (int c = 0; c < matrix[f].length; c++){
-                    System.out.println("Ingrese el numero para la posicion: "+f+ " " + c +  " ");
-                    number = entrada.nextDouble();
+                for (int c = 0; c < this.matrix[f].length; c++){
 
-                    matrix[f][c] = number;
-
-
+                    double numero = Math.random() * 100;
+                    this.CargarPosicionMatriz(f,c,numero);
 
                 }
 
 
 
             }
-            entrada.close();
+
              System.out.println("Las matrices cargadas son: ");
-             MuestraMatrix(matrix);
+             MuestraMatrix();
 
 
 
 
     }
 
-    public void MostrarPosicionMatriz(double fila , double colum){
+    public void  CargarPosicionMatriz(int  fila , int colum, double value){
+
+
+                this.matrix[fila][colum] = value;
+
+
+    }
+
+    public double  MostrarPosicionMatriz(int  fila , int colum){
+
+        return this.matrix[fila][colum];
+
+    }
 
 
 
 
+    public void MuestraMatrix(){
 
-
-    };
-
-
-
-
-
-    public static void MuestraMatrix(double[][] matrix){
-
-            for (int i = 0; i < matrix.length; i++){
-                for (int j = 0; j < matrix[i].length; j++){
-                    System.out.print(matrix[i][j] + " ");
-                }
-                System.out.println();
+        for (int i = 0; i < matrix.length; i++){
+            for (int j = 0; j < matrix[i].length; j++){
+                System.out.print(matrix[i][j] + " ");
             }
+            System.out.println();
+        }
 
 
     }
+
+
+
+
 
 
 
 }
+
+
+
+
+
 
 
