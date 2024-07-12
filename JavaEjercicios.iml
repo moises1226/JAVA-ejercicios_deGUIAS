@@ -6,8 +6,10 @@
       <sourceFolder url="file://$MODULE_DIR$/Ejercicios_GUIA-0" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JurgoDePersonajes" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Clases_GUIA3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TitanesPacific" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TitanesPasifico" isTestSource="false" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="azul-21" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
