@@ -1,4 +1,9 @@
 
+// Trabajo realizado por : Moises Aguilar y Aylen Molina
+// Fecha de entrega: 12/07/2024
+// Proyecto: Titanes Pasificos
+
+
 public class Creacion {
 
 
