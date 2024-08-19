@@ -8,8 +8,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Clases_GUIA3" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/TitanesPacific" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/TitanesPasifico" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Detecion de errores" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Matrices_GUIA2" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/TrabajoPractico1" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="azul-21" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />

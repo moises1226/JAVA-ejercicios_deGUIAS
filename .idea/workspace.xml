@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d67287c9-2f20-4cd4-b26a-ecc8f8244232" name="Changes" comment="Cambios a Carpeta titanes pasifico" />
+    <list default="true" id="d67287c9-2f20-4cd4-b26a-ecc8f8244232" name="Changes" comment="eliminacion de carpeta autodic">
+      <change afterPath="$PROJECT_DIR$/Detecion de errores/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Detecion de errores/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEjercicios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaEjercicios.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,12 +51,12 @@
     &quot;assignee&quot;: &quot;moises1226&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/moises1226/JAVA-ejercicios_deGUIAS.git&quot;,
-    &quot;accountId&quot;: &quot;966978fe-1954-4f53-9aa9-eddd178eda5e&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/moises1226/JAVA-ejercicios_deGUIAS.git",
+    "accountId": "50992a57-39ad-42b8-8db8-0f277c5a26e2"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -80,10 +86,10 @@
     "last_directory_selection": "/home/chino77/Escritorio/Proyect _JavaFX/JAVA-ejercicios_deGUIAS/TitanesPasifico",
     "last_opened_file_path": "/home/chino77/Escritorio/Proyect _JavaFX/JAVA-ejercicios_deGUIAS",
     "onboarding.tips.debug.path": "C:/Users/moise/Desktop/JavaEjercicios/src/Main.java",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -180,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720756266934</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="eliminacion de carpeta autodic">
+      <option name="closed" value="true" />
+      <created>1724090350157</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724090350157</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,6 +224,7 @@
     <MESSAGE value="Los primeros 9 ejercicios echos de la guia 0 JAVA" />
     <MESSAGE value="areglamos el 9" />
     <MESSAGE value="Cambios a Carpeta titanes pasifico" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cambios a Carpeta titanes pasifico" />
+    <MESSAGE value="eliminacion de carpeta autodic" />
+    <option name="LAST_COMMIT_MESSAGE" value="eliminacion de carpeta autodic" />
   </component>
 </project>
