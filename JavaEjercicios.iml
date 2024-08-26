@@ -11,7 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Detecion de errores" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Matrices_GUIA2" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="azul-21" jdkType="JavaSDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

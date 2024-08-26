@@ -15,17 +15,18 @@ public class Habilidades {
     public Habilidades(int energia , int DanioFisico, int DanioHabilidad, String NombreDanioFisico, String NombreDanioHabilidad_K, int categoria  ) {
 
         if(categoria > 5){
-
             throw new IllegalArgumentException("Categoria no valido");
+            //System.out.println("Catego no valida");
 
+
+        }else {
+            this.DanioFisico = DanioFisico;
+            this.DanioHabilidad = DanioHabilidad;
+            this.NombreDanioFisico = NombreDanioFisico;
+            this.NombreDanioHabilidad_K = NombreDanioHabilidad_K;
+            this.energia = energia;
         }
 
-        this.DanioFisico = DanioFisico;
-        this.DanioHabilidad = DanioHabilidad;
-        this.NombreDanioFisico = NombreDanioFisico;
-        this.NombreDanioHabilidad_K = NombreDanioHabilidad_K;
-
-        this.energia = energia;
     }
 
     public Habilidades(int danioFisico, int danoHabilidad, String nombreDanioFisico, String nombreDanioHabilidad_J) {

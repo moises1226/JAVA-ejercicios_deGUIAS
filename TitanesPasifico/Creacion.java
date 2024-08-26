@@ -11,7 +11,7 @@ public class Creacion {
 
 
 
-        Kaiju Netereo = new Kaiju("Netero", "Saturno", 900, "Titanio", 3000, 2000, 2300, 220, 88, "Garras", "", 5 );
+        Kaiju Netereo = new Kaiju("Netero", "Saturno", 900, "Titanio", 3000, 2000, 2300, 220, 88, "Garras", "", 4 );
 
         System.out.println(Netereo.getNombreDanioHabilidad_K());
         System.out.println(Netereo.PoderDePelea());
@@ -22,6 +22,7 @@ public class Creacion {
         Jaegar NaoGET = new Jaegar("Jet", "NaoGET", 900, true, 200, 2000, "Garras nucleares","Bombas Eco");
         System.out.println(NaoGET.PoderDePelea());
         System.out.println(NaoGET.GanarOPerder(NaoGET, Netereo));
+        System.out.println(NaoGET.getDanioFisico());
 
 
 
