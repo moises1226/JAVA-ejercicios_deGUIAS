@@ -6,8 +6,6 @@ public class vaca extends asbtrac_Animal{
         super(nombre, patas, edad , color);
     }
 
-
-
     @Override
     public void Comer() {
         System.out.println("El" + getNombre() +" es comiendo");

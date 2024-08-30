@@ -5,13 +5,12 @@ public class Calculadora implements Calculable{
 
     private int op1;
     private int op2;
-    private String operador;
 
-        public Calculadora (int op1 , int op2 , String operador){
+        public Calculadora (int op1 , int op2 ){
 
             this.op1 = op1;
             this.op2 = op2;
-            this.operador = operador;
+
 
         }
 
@@ -32,38 +31,33 @@ public class Calculadora implements Calculable{
         this.op2 = op2;
     }
 
-    public String getOperador() {
-        return operador;
-    }
-
-    public void setOperador(String operador) {
-        this.operador = operador;
-    }
-
 
     @Override
     public void calcular() {
 
-            if (getOperador().equals("+")){
-                System.out.println("El resultado es: " + getOp1() + getOp2());
-            } else if ( getOperador().equals("-")) {
+        System.out.println("La suma es "+ (getOp1() + getOp2())) ;
+    }
 
-                System.out.println("El resultado es: " + (getOp1() - getOp2()));
-            } else if (getOperador().equals("*")) {
+    @Override
+    public void calcular(int op ) {
 
-                System.out.println("El resultado es: " + getOp1() * getOp2());
-            } else if (getOperador().equals("/")) {
-                if (getOp2() != 0){
-                    System.out.println("El resultado es: " + (getOp1() / getOp2()));
-                }else{
+            System.out.println("La resta es "+ ( getOp1() - getOp2()) ) ;
+    }
 
-                   System.out.println("NO SE PUEDE DIVIDIR POR 0 ");
+    @Override
+    public void calcular(double op){
 
-                }
+            System.out.println("La division es: " + (getOp1() / getOp2()));
+    }
 
-            }
+    @Override
+    public void calcular(boolean op ) {
 
+            System.out.println("La multiplicion es " + (getOp1() * getOp2()));
     }
 
 
+
 }
+
+

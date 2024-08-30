@@ -24,4 +24,12 @@ public class CalculoCirculo implements Calculable{
         System.out.println("El area del circulo es : " + area);
 
     }
+
+    @Override
+    public void calcular(int op) {}
+    @Override
+    public void calcular(double op) {}
+
+    @Override
+    public void calcular(boolean op) {}
 }
