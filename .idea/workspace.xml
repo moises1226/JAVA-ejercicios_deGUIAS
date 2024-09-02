@@ -5,13 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d67287c9-2f20-4cd4-b26a-ecc8f8244232" name="Changes" comment="eliminacion de carpeta autodic">
+      <change afterPath="$PROJECT_DIR$/ArrayList/ArrayLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayList/Persona_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayList/arraylist1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayList/notas/nota1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HerenciaPolimofismo/practico1/PolizaInmueble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HerenciaPolimofismo/practico1/PolizaInmuebleEscolar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HerenciaPolimofismo/practico1/Teaser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP-Escuela1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP-Escuela1/com/sm/model/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP-Escuela1/com/sm/model/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP-Escuela1/com/sm/model/Materia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clases_GUIA3/Ejercicio7/vaca.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clases_GUIA3/Ejercicio7/vaca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clases_GUIA3/Ejercicio8/Calculable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clases_GUIA3/Ejercicio8/Calculable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clases_GUIA3/Ejercicio8/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clases_GUIA3/Ejercicio8/Calculadora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clases_GUIA3/Ejercicio8/CalculoCirculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clases_GUIA3/Ejercicio8/CalculoCirculo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clases_GUIA3/Ejercicio8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clases_GUIA3/Ejercicio8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detecion de errores/Persona.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Detecion de errores/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEjercicios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaEjercicios.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +31,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -45,6 +56,11 @@
         <option name="title" value="All" />
       </GitPushTagMode>
     </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="DesarrolloAutoDic1" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -53,47 +69,52 @@
     &quot;assignee&quot;: &quot;moises1226&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/moises1226/JAVA-ejercicios_deGUIAS.git",
-    "accountId": "50ff148c-4738-4618-ba97-c98ba7030982"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/moises1226/JAVA-ejercicios_deGUIAS.git&quot;,
+    &quot;accountId&quot;: &quot;966978fe-1954-4f53-9aa9-eddd178eda5e&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2hlDK0kn5C9Pufbqro5ZB4rVfYU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Creacion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ejercicio1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_directory_selection&quot;: &quot;/home/chino77/Escritorio/Proyect _JavaFX/JAVA-ejercicios_deGUIAS/TitanesPasifico&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/chino77/Escritorio/Proyect _JavaFX/JAVA-ejercicios_deGUIAS&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/moise/Desktop/JavaEjercicios/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayLists.executor": "Run",
+    "Application.Creacion.executor": "Run",
+    "Application.Ejercicio2.executor": "Run",
+    "Application.Ejercicio3.executor": "Run",
+    "Application.Ejercicio4.executor": "Run",
+    "Application.Ejercicio5.executor": "Run",
+    "Application.Ejercicio6.executor": "Run",
+    "Application.Ejercicio7.executor": "Run",
+    "Application.Ejercicio8.executor": "Run",
+    "Application.Ejercicio9.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Teaser.executor": "Run",
+    "Application.ejercicio1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "zulu-17",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "/home/chino77/Escritorio/Proyect _JavaFX/JAVA-ejercicios_deGUIAS/TitanesPasifico",
+    "last_opened_file_path": "/home/chino77/Escritorio/Proyect _JavaFX/JAVA-ejercicios_deGUIAS",
+    "onboarding.tips.debug.path": "C:/Users/moise/Desktop/JavaEjercicios/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "copyright"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />

@@ -1,0 +1,11 @@
+Existen 3 tipos de listas:
+- ArrayLista
+- LinkedList
+- Stack
+
+
+---------
+Una ArrayList puede guardar otra arraylist dentro de ella
+------
+Permite orden aleatorio
+------

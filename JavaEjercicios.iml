@@ -10,6 +10,9 @@
       <sourceFolder url="file://$MODULE_DIR$/TitanesPasifico" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Detecion de errores" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Matrices_GUIA2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ArrayList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TP-Escuela1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HerenciaPolimofismo" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
