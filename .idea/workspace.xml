@@ -4,24 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d67287c9-2f20-4cd4-b26a-ecc8f8244232" name="Changes" comment="eliminacion de carpeta autodic">
-      <change afterPath="$PROJECT_DIR$/ArrayList/ArrayLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayList/Persona_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayList/arraylist1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayList/notas/nota1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HerenciaPolimofismo/practico1/PolizaInmueble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HerenciaPolimofismo/practico1/PolizaInmuebleEscolar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HerenciaPolimofismo/practico1/Teaser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP-Escuela1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP-Escuela1/com/sm/model/Alumno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP-Escuela1/com/sm/model/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP-Escuela1/com/sm/model/Materia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="d67287c9-2f20-4cd4-b26a-ecc8f8244232" name="Changes" comment="...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Detecion de errores/Persona.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Detecion de errores/main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEjercicios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaEjercicios.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Escuela1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/TP-Escuela1/Escuela.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Escuela1/com/sm/model/Alumno.java" beforeDir="false" afterPath="$PROJECT_DIR$/TP-Escuela1/com/sm/model/Alumno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Escuela1/com/sm/model/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/TP-Escuela1/com/sm/model/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP-Escuela1/com/sm/model/Materia.java" beforeDir="false" afterPath="$PROJECT_DIR$/TP-Escuela1/com/sm/model/Materia.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +86,7 @@
     "Application.Ejercicio7.executor": "Run",
     "Application.Ejercicio8.executor": "Run",
     "Application.Ejercicio9.executor": "Run",
+    "Application.Escuela.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Teaser.executor": "Run",
     "Application.ejercicio1.executor": "Run",
@@ -217,7 +206,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724090350157</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="practicas realizadas">
+      <option name="closed" value="true" />
+      <created>1725290322908</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1725290322908</updated>
+    </task>
+    <task id="LOCAL-00013" summary="...">
+      <option name="closed" value="true" />
+      <created>1725290467382</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1725290467382</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -247,7 +252,10 @@
     <MESSAGE value="Los primeros 9 ejercicios echos de la guia 0 JAVA" />
     <MESSAGE value="areglamos el 9" />
     <MESSAGE value="Cambios a Carpeta titanes pasifico" />
+    <MESSAGE value="uso de polimorfismo en el ejercicio8" />
     <MESSAGE value="eliminacion de carpeta autodic" />
-    <option name="LAST_COMMIT_MESSAGE" value="eliminacion de carpeta autodic" />
+    <MESSAGE value="practicas realizadas" />
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
 </project>

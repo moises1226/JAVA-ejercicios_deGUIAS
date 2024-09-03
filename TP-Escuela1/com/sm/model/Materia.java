@@ -8,6 +8,7 @@ public class Materia {
     private double notaMateria;
     private Alumno alumno;
 
+        public Materia(){};
         public Materia (String nombre , double notaMateria){
             this.nombre = nombre;
             this.notaMateria = notaMateria;
@@ -29,7 +30,7 @@ public class Materia {
         this.notaMateria = notaMateria;
     }
 
-    public String toString(){
+    public String MateriaEstudiante(){
 
        return getNombre() + " ("+ getNotaMateria() +")";
     }

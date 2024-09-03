@@ -4,35 +4,29 @@ import java.util.List;
 
 public class Curso  {
 
-    private Alumno alumno;
-    private Materia materia;
+    private List<Alumno> alumnos;
+    private List<Materia> materias;
 
     public  Curso(){};
-    public Curso(Alumno alumno, Materia materia){
-        this.alumno = alumno;
-        this.materia = materia;
+    public Curso(List<Alumno> alum, List<Materia> mate){
+        this.alumnos = alum;
+        this.materias = mate;
     };
-
-
-
-    public String All_NotasMateria(){
-        return "Curso : " + materia + " Alumno: " + alumno;
+    public List<Alumno> getAlumnos() {
+        return alumnos;
     }
 
-    public String All_MateriaEstudiante(){
-
-        return "Materia: " + materia.getNombre() + " Alumno: " + alumno.getNombre();
+    public List<Materia> getMaterias() {
+        return materias;
     }
 
-    public String NotaEstudiante( String nombre) {
-
-        String s = "Nombre: " + alumno.getNombre() + materia.getNombre() + materia.getNotaMateria();
-
-        return s;
-
-
-
-
+    // Método para combinar nombres de alumnos y materias
+    public void mostrarAlumnosYMaterias() {
+        for (int i = 0; i < alumnos.size(); i++) {
+            Alumno alumno = alumnos.get(i);
+            Materia materia = materias.get(i);
+            System.out.println("Alumno: " + alumno.getNombre() + " Materia: " + materia.getNombre());
+        }
     }
 
 

@@ -1,6 +1,9 @@
 package com.sm.model;
 
-public class Alumno {
+import java.util.ArrayList;
+import java.util.List;
+
+public class Alumno extends Materia{
 
     private String nombre;
     private int dni;
@@ -19,6 +22,7 @@ public class Alumno {
         this.edad = edad;
         this.sexo = sexo;
         this.nota = nota;
+
     }
 
     public String getNombre() {
