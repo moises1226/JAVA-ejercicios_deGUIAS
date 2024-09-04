@@ -11,17 +11,17 @@ public class Alumno extends Materia{
     private String apellido;
     private int edad;
     private String sexo;
-    private double nota;
+
 
     public Alumno(){};
-    public Alumno(String nombre , String apellido , int dni , int edad , String sexo, double nota){
+    public Alumno(String nombre , String apellido , int dni , int edad , String sexo){
 
         this.nombre = nombre;
         this.apellido = apellido;
         this.dni = dni;
         this.edad = edad;
         this.sexo = sexo;
-        this.nota = nota;
+
 
     }
 
@@ -65,13 +65,7 @@ public class Alumno extends Materia{
         this.sexo = sexo;
     }
 
-    public double getNota() {
-        return nota;
-    }
 
-    public void setNota(double nota) {
-        this.nota = nota;
-    }
 
 
     public String toString(){
