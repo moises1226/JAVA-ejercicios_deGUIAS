@@ -50,13 +50,6 @@ public class Cine_Entreteniminto
 
         }
 
-     }
-
-
-
-
-
-     };
 
 
 

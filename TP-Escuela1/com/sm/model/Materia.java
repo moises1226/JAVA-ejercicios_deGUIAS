@@ -6,7 +6,7 @@ public class Materia {
 
     private String nombre;
     private double notaMateria;
-    private Alumno alumno;
+   // private Alumno alumno;
 
         public Materia(){};
         public Materia (String nombre , double notaMateria){
@@ -36,7 +36,7 @@ public class Materia {
     }
 
 
-    public String NotaEstudiante(String nombre) {
+    /*public String NotaEstudiante(String nombre) {
 
 
         if(nombre.equals(alumno.getNombre())){
@@ -54,7 +54,7 @@ public class Materia {
 
 
 
-    }
+    }*/
 
 
 }

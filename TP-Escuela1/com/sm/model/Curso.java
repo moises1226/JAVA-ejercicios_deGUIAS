@@ -5,36 +5,38 @@ import java.util.List;
 public class Curso  {
 
     private List<Alumno> alumnos;
-    private List<Materia> materias;
+    //private List<Materia> materias;
     private boolean bandera = false;
 
     public  Curso(){};
-    public Curso(List<Alumno> alum, List<Materia> mate){
+
+    public Curso(List<Alumno> alum){
         this.alumnos = alum;
-        this.materias = mate;
+       // this.materias = mate;
     };
+
     public List<Alumno> getAlumnos() {
         return alumnos;
     }
 
-    public List<Materia> getMaterias() {
-        return materias;
-    }
+    /*public List<Materia> getMaterias() {
+    //    return materias;
+    }*/
 
     //Método para combinar nombres de alumnos y materias
-    public void mostrarAlumnosYMaterias() {
+    /*public void mostrarAlumnosYMaterias() {
         for (int i = 0; i < alumnos.size(); i++) {
-            Alumno alumno = alumnos.get(i);
-            Materia materia = materias.get(i);
+        //    Alumno alumno = alumnos.get(i);
+      //      Materia materia = materias.get(i);
             System.out.println("Alumno: " + alumno.getNombre() + " Materia: " + materia.getNombre());
         }
-    }
+    }*/
 
     public void Estudiantes(){
         System.out.println("Alumnos:");
         for (int i = 0; i < alumnos.size() ; i++) {
             Alumno a = alumnos.get(i);
-            Materia m = materias.get(i);
+           // Materia m = materias.get(i);
             System.out.println("Nombre: " + a.getNombre());
         }
     }
@@ -42,9 +44,9 @@ public class Curso  {
     public void mostrarMateriaEstudiante(String nombre){
         for (int i = 0; i < alumnos.size(); i++) {
             Alumno alum = alumnos.get(i);
-            Materia mat = materias.get(i);
+            //Materia mat = materias.get(i);
             if (nombre.equals(alum.getNombre())){
-                System.out.println("Alumno: " + alum.getNombre() + " Materia: " + mat.getNombre());
+              //  System.out.println("Alumno: " + alum.getNombre() + " Materia: " + mat.getNombre());
                 bandera = true;
                 break;
             }

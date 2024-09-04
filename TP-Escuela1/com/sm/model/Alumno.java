@@ -1,10 +1,13 @@
 package com.sm.model;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 
-public class Alumno extends Materia{
+public class Alumno{
 
+    //HashMap<String, Integer> notas = new HashMap<String, Integer>();
+    //notas..put("");
     private String nombre;
     private int dni;
 
@@ -12,7 +15,7 @@ public class Alumno extends Materia{
     private int edad;
     private String sexo;
 
-
+    private List<Materia> materias = new ArrayList<Materia>();
     public Alumno(){};
     public Alumno(String nombre , String apellido , int dni , int edad , String sexo){
 
@@ -21,8 +24,16 @@ public class Alumno extends Materia{
         this.dni = dni;
         this.edad = edad;
         this.sexo = sexo;
+    }
 
+    public Alumno(String nombre , String apellido , int dni , int edad , String sexo, List<Materia> materias){
 
+        this.nombre = nombre;
+        this.apellido = apellido;
+        this.dni = dni;
+        this.edad = edad;
+        this.sexo = sexo;
+        this.materias = materias;
     }
 
     public String getNombre() {
@@ -66,7 +77,13 @@ public class Alumno extends Materia{
     }
 
 
+    public List<Materia> getMaterias() {
+        return materias;
+    }
 
+    public void setMaterias(List<Materia> materias) {
+        this.materias = materias;
+    }
 
     public String toString(){
 
