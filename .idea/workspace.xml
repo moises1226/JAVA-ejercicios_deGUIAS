@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d67287c9-2f20-4cd4-b26a-ecc8f8244232" name="Changes" comment="modif tpEscuela">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TP-Escuela1/Escuela.java" beforeDir="false" afterPath="$PROJECT_DIR$/TP-Escuela1/Escuela.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TP-Escuela1/com/sm/model/Alumno.java" beforeDir="false" afterPath="$PROJECT_DIR$/TP-Escuela1/com/sm/model/Alumno.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TP-Escuela1/com/sm/model/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/TP-Escuela1/com/sm/model/Curso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP-Escuela1/com/sm/model/Materia.java" beforeDir="false" afterPath="$PROJECT_DIR$/TP-Escuela1/com/sm/model/Materia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrabajoPractico1/Cine_Entreteniminto.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrabajoPractico1/Cine_Entreteniminto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,36 +73,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayLists.executor": "Run",
-    "Application.Creacion.executor": "Run",
-    "Application.Ejercicio2.executor": "Run",
-    "Application.Ejercicio3.executor": "Run",
-    "Application.Ejercicio4.executor": "Run",
-    "Application.Ejercicio5.executor": "Run",
-    "Application.Ejercicio6.executor": "Run",
-    "Application.Ejercicio7.executor": "Run",
-    "Application.Ejercicio8.executor": "Run",
-    "Application.Ejercicio9.executor": "Run",
-    "Application.Escuela.executor": "Debug",
-    "Application.Main.executor": "Run",
-    "Application.Teaser.executor": "Run",
-    "Application.ejercicio1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "jdk.selected.JAVA_MODULE": "zulu-17",
-    "kotlin-language-version-configured": "true",
-    "last_directory_selection": "/home/chino77/Escritorio/Proyect _JavaFX/JAVA-ejercicios_deGUIAS/TitanesPasifico",
-    "last_opened_file_path": "/home/chino77/Escritorio/Proyect _JavaFX/JAVA-ejercicios_deGUIAS",
-    "onboarding.tips.debug.path": "C:/Users/moise/Desktop/JavaEjercicios/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayLists.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Creacion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Escuela.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Teaser.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ejercicio1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;zulu-17&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;/home/chino77/Escritorio/Proyect _JavaFX/JAVA-ejercicios_deGUIAS/TitanesPasifico&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/chino77/Escritorio/Proyect _JavaFX/JAVA-ejercicios_deGUIAS&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/moise/Desktop/JavaEjercicios/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -268,21 +265,5 @@
     <MESSAGE value="..." />
     <MESSAGE value="modif tpEscuela" />
     <option name="LAST_COMMIT_MESSAGE" value="modif tpEscuela" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/TP-Escuela1/Escuela.java</url>
-          <line>69</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/TP-Escuela1/Escuela.java</url>
-          <line>67</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
