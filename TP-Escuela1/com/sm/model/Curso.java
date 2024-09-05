@@ -40,7 +40,7 @@ public class Curso  {
             System.out.println("Nombre: " + a.getNombre());
         }
     }
-
+/*
     public void mostrarMateriaEstudiante(String nombre){
         for (int i = 0; i < alumnos.size(); i++) {
             Alumno alum = alumnos.get(i);
@@ -56,7 +56,7 @@ public class Curso  {
         }
     }
 
-
+*/
 
 }
 

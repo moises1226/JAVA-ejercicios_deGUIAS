@@ -36,25 +36,4 @@ public class Materia {
     }
 
 
-    /*public String NotaEstudiante(String nombre) {
-
-
-        if(nombre.equals(alumno.getNombre())){
-
-            return "Alumno: " + alumno.getNombre()+ " " + "Materia: " + getNombre();
-        }else{
-
-            System.out.println("El nombre Alumno que puso no existe");
-
-            return null;
-
-        }
-
-
-
-
-
-    }*/
-
-
 }
