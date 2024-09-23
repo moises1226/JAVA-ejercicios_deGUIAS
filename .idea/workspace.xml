@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d67287c9-2f20-4cd4-b26a-ecc8f8244232" name="Changes" comment="modif tpEscuela">
-      <change afterPath="$PROJECT_DIR$/HashMap/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaEjercicios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaEjercicios.iml" afterDir="false" />
     </list>
@@ -61,6 +61,9 @@
     &quot;accountId&quot;: &quot;966978fe-1954-4f53-9aa9-eddd178eda5e&quot;
   }
 }</component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -95,7 +98,7 @@
     "jdk.selected.JAVA_MODULE": "zulu-17",
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "/home/chino77/Escritorio/Proyect _JavaFX/JAVA-ejercicios_deGUIAS/TitanesPasifico",
-    "last_opened_file_path": "/home/chino77/Escritorio/Proyect _JavaFX/JAVA-ejercicios_deGUIAS",
+    "last_opened_file_path": "C:/Users/Alumno ET7/Documents/JAVA-ejercicios_deGUIAS",
     "onboarding.tips.debug.path": "C:/Users/moise/Desktop/JavaEjercicios/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
