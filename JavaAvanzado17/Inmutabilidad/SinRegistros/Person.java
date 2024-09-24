@@ -31,7 +31,7 @@ public class Person {
             return false;
         }else{
 
-            Person_ otro = (Person_) obj;
+            Person otro = (Person) obj;
             return Objects.equals(name, otro.name) && Objects.equals(address , otro.address);
 
         }
