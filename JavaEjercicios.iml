@@ -9,6 +9,8 @@
       <sourceFolder url="file://$MODULE_DIR$/EjerciciosMatrices_Autodic" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Matrices_GUIA2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Clases_AutoDidactico" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaAvanzado17/Inmutabilidad/ConRegistros" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaAvanzado17/Inmutabilidad/SinRegistros" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
