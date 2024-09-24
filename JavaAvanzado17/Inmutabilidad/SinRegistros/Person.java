@@ -16,8 +16,8 @@ public class Person {
 
     public String getAddress(){
         return address;
-    };
-    
+    }
+
     @Override
     public int hashCode(){
         return Objects.hash(name , address);
@@ -27,7 +27,7 @@ public class Person {
     public boolean equals(Object obj ){
         if(this == obj){
             return true;
-        } else if (!(obj instanceof Person_)) {
+        } else if (!(obj instanceof Person)) {
             return false;
         }else{
 
