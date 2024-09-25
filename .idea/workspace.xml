@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d67287c9-2f20-4cd4-b26a-ecc8f8244232" name="Changes" comment="modif" />
+    <list default="true" id="d67287c9-2f20-4cd4-b26a-ecc8f8244232" name="Changes" comment="modif">
+      <change afterPath="$PROJECT_DIR$/JavaAvanzado17/Inmutabilidad/ConRegistros/Person_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaAvanzado17/Inmutabilidad/ConRegistros/Person_.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaAvanzado17/Inmutabilidad/ConRegistros/Person_.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEjercicios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaEjercicios.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,18 +45,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "moises1226"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;moises1226&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/moises1226/JAVA-ejercicios_deGUIAS.git",
-    "accountId": "0a9422b1-c821-4bce-bfd1-8fef6e21f382"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/moises1226/JAVA-ejercicios_deGUIAS.git&quot;,
+    &quot;accountId&quot;: &quot;0a9422b1-c821-4bce-bfd1-8fef6e21f382&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -63,31 +68,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Ejercicio2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ejercicio1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.herencia.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;DesarrolloAutoDic1&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/moise/Desktop/JavaEjercicios&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/moise/Desktop/JavaEjercicios/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.3816092&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Ejercicio2.executor": "Run",
+    "Application.Ejercicio3.executor": "Run",
+    "Application.Ejercicio4.executor": "Run",
+    "Application.Ejercicio5.executor": "Run",
+    "Application.Ejercicio6.executor": "Run",
+    "Application.Ejercicio7.executor": "Run",
+    "Application.Ejercicio8.executor": "Run",
+    "Application.Ejercicio9.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.ejercicio1.executor": "Run",
+    "Application.herencia.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.Person_Test.checkConstructorAndGetterMethods.executor": "Run",
+    "JUnit.Person_Test.checkEqualsMethod.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "DesarrolloAutoDic1",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/moise/Desktop/JavaEjercicios",
+    "onboarding.tips.debug.path": "C:/Users/moise/Desktop/JavaEjercicios/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.3816092",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/JavaAvanzado17/Inmutabilidad/SinRegistros" />
@@ -97,16 +108,19 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Person_Test.checkConstructorAndGetterMethods" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaEjercicios" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Person_Test" />
+      <option name="METHOD_NAME" value="checkConstructorAndGetterMethods" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.Person_Test.checkConstructorAndGetterMethods" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727190769828</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="modif">
+      <option name="closed" value="true" />
+      <created>1727218765233</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1727218765233</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
