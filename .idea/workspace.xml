@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d67287c9-2f20-4cd4-b26a-ecc8f8244232" name="Changes" comment="modif tpEscuela">
+    <list default="true" id="d67287c9-2f20-4cd4-b26a-ecc8f8244232" name="Changes" comment="modif">
+      <change afterPath="$PROJECT_DIR$/AngryBirds/compilador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngryBirds/model/Cerdos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngryBirds/model/Habilidades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngryBirds/model/Pajaros.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaEjercicios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaEjercicios.iml" afterDir="false" />
@@ -58,12 +62,9 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/moises1226/JAVA-ejercicios_deGUIAS.git&quot;,
-    &quot;accountId&quot;: &quot;966978fe-1954-4f53-9aa9-eddd178eda5e&quot;
+    &quot;accountId&quot;: &quot;0a9422b1-c821-4bce-bfd1-8fef6e21f382&quot;
   }
 }</component>
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="2" />
-  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -77,8 +78,6 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.ArrayLists.executor": "Run",
-    "Application.Creacion.executor": "Run",
     "Application.Ejercicio2.executor": "Run",
     "Application.Ejercicio3.executor": "Run",
     "Application.Ejercicio4.executor": "Run",
@@ -87,29 +86,64 @@
     "Application.Ejercicio7.executor": "Run",
     "Application.Ejercicio8.executor": "Run",
     "Application.Ejercicio9.executor": "Run",
-    "Application.Escuela.executor": "Run",
     "Application.Main.executor": "Run",
-    "Application.Teaser.executor": "Run",
+    "Application.compilador.executor": "Run",
     "Application.ejercicio1.executor": "Run",
-    "Application.main.executor": "Run",
+    "Application.herencia.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.Person_Test.checkConstructorAndGetterMethods.executor": "Run",
+    "JUnit.Person_Test.checkEqualsMethod.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "create.test.in.the.same.root": "true",
     "git-widget-placeholder": "master",
-    "jdk.selected.JAVA_MODULE": "zulu-17",
     "kotlin-language-version-configured": "true",
-    "last_directory_selection": "/home/chino77/Escritorio/Proyect _JavaFX/JAVA-ejercicios_deGUIAS/TitanesPasifico",
-    "last_opened_file_path": "C:/Users/Alumno ET7/Documents/JAVA-ejercicios_deGUIAS",
+    "last_opened_file_path": "C:/Users/moise/Desktop/JavaEjercicios",
     "onboarding.tips.debug.path": "C:/Users/moise/Desktop/JavaEjercicios/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "copyright"
+    "project.structure.side.proportion": "0.3816092",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font",
+    "settings.editor.splitter.proportion": "0.27178153"
   }
 }]]></component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JavaAvanzado17/Inmutabilidad/SinRegistros" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.compilador">
+    <configuration name="compilador" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="compilador" />
+      <module name="JavaEjercicios" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Person_Test.checkConstructorAndGetterMethods" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaEjercicios" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Person_Test" />
+      <option name="METHOD_NAME" value="checkConstructorAndGetterMethods" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.compilador" />
+        <item itemvalue="JUnit.Person_Test.checkConstructorAndGetterMethods" />
+        <item itemvalue="JUnit.Person_Test.checkConstructorAndGetterMethods" />
+        <item itemvalue="JUnit.Person_Test.checkConstructorAndGetterMethods" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -192,63 +226,31 @@
       <option name="project" value="LOCAL" />
       <updated>1718166365964</updated>
     </task>
-    <task id="LOCAL-00010" summary="Cambios a Carpeta titanes pasifico">
+    <task id="LOCAL-00010" summary="modif">
       <option name="closed" value="true" />
-      <created>1720756266934</created>
+      <created>1727190711773</created>
       <option name="number" value="00010" />
       <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
-      <updated>1720756266934</updated>
+      <updated>1727190711773</updated>
     </task>
-    <task id="LOCAL-00011" summary="eliminacion de carpeta autodic">
+    <task id="LOCAL-00011" summary="modif">
       <option name="closed" value="true" />
-      <created>1724090350157</created>
+      <created>1727190769828</created>
       <option name="number" value="00011" />
       <option name="presentableId" value="LOCAL-00011" />
       <option name="project" value="LOCAL" />
-      <updated>1724090350157</updated>
+      <updated>1727190769828</updated>
     </task>
-    <task id="LOCAL-00012" summary="practicas realizadas">
+    <task id="LOCAL-00012" summary="modif">
       <option name="closed" value="true" />
-      <created>1725290322908</created>
+      <created>1727218765233</created>
       <option name="number" value="00012" />
       <option name="presentableId" value="LOCAL-00012" />
       <option name="project" value="LOCAL" />
-      <updated>1725290322908</updated>
+      <updated>1727218765233</updated>
     </task>
-    <task id="LOCAL-00013" summary="...">
-      <option name="closed" value="true" />
-      <created>1725290467382</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1725290467382</updated>
-    </task>
-    <task id="LOCAL-00014" summary="modif tpEscuela">
-      <option name="closed" value="true" />
-      <created>1725376627363</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1725376627363</updated>
-    </task>
-    <task id="LOCAL-00015" summary="modif tpEscuela">
-      <option name="closed" value="true" />
-      <created>1725493075846</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1725493075846</updated>
-    </task>
-    <task id="LOCAL-00016" summary="modif tpEscuela">
-      <option name="closed" value="true" />
-      <created>1725550949691</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1725550949691</updated>
-    </task>
-    <option name="localTasksCounter" value="17" />
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -277,12 +279,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Los primeros 9 ejercicios echos de la guia 0 JAVA" />
     <MESSAGE value="areglamos el 9" />
-    <MESSAGE value="Cambios a Carpeta titanes pasifico" />
-    <MESSAGE value="uso de polimorfismo en el ejercicio8" />
-    <MESSAGE value="eliminacion de carpeta autodic" />
-    <MESSAGE value="practicas realizadas" />
-    <MESSAGE value="..." />
-    <MESSAGE value="modif tpEscuela" />
-    <option name="LAST_COMMIT_MESSAGE" value="modif tpEscuela" />
+    <MESSAGE value="modif" />
+    <option name="LAST_COMMIT_MESSAGE" value="modif" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JAVA_ejercicios_deGUIAS$compilador.ic" NAME="compilador Coverage Results" MODIFIED="1727353553426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
   </component>
 </project>
