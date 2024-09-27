@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d67287c9-2f20-4cd4-b26a-ecc8f8244232" name="Changes" comment="modif">
-      <change afterPath="$PROJECT_DIR$/AngryBirds/compilador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AngryBirds/model/Cerdos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AngryBirds/model/Habilidades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AngryBirds/model/Pajaros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngryBirds/model/IslaPajaro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEjercicios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaEjercicios.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AngryBirds/compilador.java" beforeDir="false" afterPath="$PROJECT_DIR$/AngryBirds/compilador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AngryBirds/model/Pajaros.java" beforeDir="false" afterPath="$PROJECT_DIR$/AngryBirds/model/Pajaros.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -250,7 +247,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727218765233</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="modif">
+      <option name="closed" value="true" />
+      <created>1727393175420</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1727393175420</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -281,6 +286,13 @@
     <MESSAGE value="areglamos el 9" />
     <MESSAGE value="modif" />
     <option name="LAST_COMMIT_MESSAGE" value="modif" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="pajaro1" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JAVA_ejercicios_deGUIAS$compilador.ic" NAME="compilador Coverage Results" MODIFIED="1727353553426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />

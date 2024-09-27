@@ -1,11 +1,15 @@
 package model;
 
+import java.util.List;
+
 public class Pajaros extends Habilidades {
 
     private String nombre;
     private double peso;
 
 
+    public Pajaros() {
+    }
 
     public Pajaros(String nombre, double peso, double ira, double velocidad) {
         super(ira, velocidad);
@@ -38,7 +42,7 @@ public class Pajaros extends Habilidades {
 
         if (nombre.equals("comun")) {
             f = getIra() * 2;
-            System.out.println("La fuerza del pájaro es: " + f);
+            System.out.println("La fuerza del pájaro común es: " + f);
 
         } else if (nombre.equals("Red")) {
             f = (getIra() * 10) * getEnojo();
@@ -86,6 +90,20 @@ public class Pajaros extends Habilidades {
 
         setEnojo(enojar);
         System.out.println("Numero de enojos asignados a " + getNombre() + " son " + enojar);
+
+    }
+
+    public void FuerzaTotal(List<Pajaros> GrupoDePajaros){
+        double fuezaTotal = 0;
+
+        for (Pajaros p : GrupoDePajaros){
+
+            double fuerzaTotal = p.getFuerza();
+            fuezaTotal = fuezaTotal + fuerzaTotal;
+        }
+
+        System.out.println("La fuerza total del los pájaros es: " + fuezaTotal);
+
 
     }
 
