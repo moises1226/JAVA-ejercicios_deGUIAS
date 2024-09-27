@@ -26,12 +26,7 @@ public class Habilidades {
         this.ira = ira;
     }
 
-
-    public int getEnojo() {
-
-        return enojo;
-
-    }
+    public int getEnojo() {return enojo;}
 
     public void setEnojo(int enojo) {
         this.enojo = enojo;

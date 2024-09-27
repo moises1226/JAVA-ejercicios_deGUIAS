@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d67287c9-2f20-4cd4-b26a-ecc8f8244232" name="Changes" comment="modif">
-      <change afterPath="$PROJECT_DIR$/AngryBirds/model/IslaPajaro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngryBirds/compilador.java" beforeDir="false" afterPath="$PROJECT_DIR$/AngryBirds/compilador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngryBirds/model/Pajaros.java" beforeDir="false" afterPath="$PROJECT_DIR$/AngryBirds/model/Pajaros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AngryBirds/model/Habilidades.java" beforeDir="false" afterPath="$PROJECT_DIR$/AngryBirds/model/Habilidades.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AngryBirds/model/IslaPajaro.java" beforeDir="false" afterPath="$PROJECT_DIR$/AngryBirds/model/IslaPajaro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +98,7 @@
     "create.test.in.the.same.root": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/moise/Desktop/JavaEjercicios",
+    "last_opened_file_path": "C:/Users/Alumno ET7/Documents/copyProyect/JAVA-ejercicios_deGUIAS",
     "onboarding.tips.debug.path": "C:/Users/moise/Desktop/JavaEjercicios/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
