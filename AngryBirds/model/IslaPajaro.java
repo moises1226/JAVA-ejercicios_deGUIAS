@@ -42,7 +42,13 @@ public class IslaPajaro {
     }
 
 
-    public void FiestaSorpresa (){}
+    public void FiestaSorpresa (List<Pajaros> pajaros ){
+
+        for( Pajaros p : pajaros  ){
+
+        }
+
+    }
 
 
 
