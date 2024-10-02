@@ -11,6 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Clases_AutoDidactico" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JavaAvanzado17/Inmutabilidad/ConRegistros" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JavaAvanzado17/Inmutabilidad/SinRegistros" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/Clases_AutoDidactico/H_P-part1" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
