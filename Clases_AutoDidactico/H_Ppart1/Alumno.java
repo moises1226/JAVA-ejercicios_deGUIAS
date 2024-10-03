@@ -9,12 +9,16 @@ public class Alumno {
     private int anio;
     private List<String> materias;
 
-    public Alumno(List<String> materias, int anio, String apellido, String nombre) {
-        this.materias = materias;
-        this.anio = anio;
+    public Alumno (){}
+    public Alumno( String nombre , String apellido, int anio, List<String> materias) {
+
         this.apellido = apellido;
         this.nombre = nombre;
+        this.anio = anio;
+        this.materias = materias;
     }
+
+
 
     public String getNombre() {
         return nombre;
@@ -49,6 +53,15 @@ public class Alumno {
 
     }
 
-    public void EdadEstudiantes (){}
+    public void EdadEstudiantes (List<Alumno> alumnos){
+
+        for (Alumno alu : alumnos){
+            System.out.println("La edad de " + alu.getNombre() + " edad: " + alu.getAnio());
+        }
+    }
+
+    public String toString (){
+        return "nombre : " + getNombre() + "\nApellido: " + getApellido() + " edad: " + getAnio(); 
+    }
 }
 
