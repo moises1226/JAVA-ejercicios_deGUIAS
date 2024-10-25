@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d67287c9-2f20-4cd4-b26a-ecc8f8244232" name="Changes" comment="Creacion de GUIA-4">
-      <change afterPath="$PROJECT_DIR$/Ejercicios-GUIA-5/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicios-GUIA-5/ManejadorCliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicios-GUIA-5/Servidor.java" afterDir="false" />
+    <list default="true" id="d67287c9-2f20-4cd4-b26a-ecc8f8244232" name="Changes" comment="modif tpEscuela">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaEjercicios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaEjercicios.iml" afterDir="false" />
     </list>
@@ -60,7 +58,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/moises1226/JAVA-ejercicios_deGUIAS.git&quot;,
-    &quot;accountId&quot;: &quot;f159f46a-37fa-47a8-a751-7899981cc2ae&quot;
+    &quot;accountId&quot;: &quot;966978fe-1954-4f53-9aa9-eddd178eda5e&quot;
   }
 }</component>
   <component name="ProjectCodeStyleSettingsMigration">
@@ -80,7 +78,6 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArrayLists.executor": "Run",
-    "Application.Cliente.executor": "Run",
     "Application.Creacion.executor": "Run",
     "Application.Ejercicio2.executor": "Run",
     "Application.Ejercicio3.executor": "Run",
@@ -92,11 +89,11 @@
     "Application.Ejercicio9.executor": "Run",
     "Application.Escuela.executor": "Run",
     "Application.Main.executor": "Run",
-    "Application.Servidor.executor": "Run",
     "Application.Teaser.executor": "Run",
     "Application.ejercicio1.executor": "Run",
     "Application.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "zulu-17",
     "kotlin-language-version-configured": "true",
@@ -251,15 +248,7 @@
       <option name="project" value="LOCAL" />
       <updated>1725550949691</updated>
     </task>
-    <task id="LOCAL-00017" summary="Creacion de GUIA-4">
-      <option name="closed" value="true" />
-      <created>1727116670082</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1727116670082</updated>
-    </task>
-    <option name="localTasksCounter" value="18" />
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -294,7 +283,6 @@
     <MESSAGE value="practicas realizadas" />
     <MESSAGE value="..." />
     <MESSAGE value="modif tpEscuela" />
-    <MESSAGE value="Creacion de GUIA-4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creacion de GUIA-4" />
+    <option name="LAST_COMMIT_MESSAGE" value="modif tpEscuela" />
   </component>
 </project>
