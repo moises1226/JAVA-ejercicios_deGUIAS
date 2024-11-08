@@ -2,7 +2,7 @@ import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-public class Servidor {
+public class ServidorBase {
     public static void main(String[] args) { //Servidor multicliente
 
 
@@ -17,7 +17,7 @@ public class Servidor {
                 System.out.println("Client: " + socket.toString());
 
                 /*Se crea un objeto para manejar al cliente, cada objeto es un Thread*/
-                ManejadorCliente handler = new ManejadorCliente(socket);
+                ControladorCliente handler = new ControladorCliente(socket);
 
                 handler.handle();
             }
