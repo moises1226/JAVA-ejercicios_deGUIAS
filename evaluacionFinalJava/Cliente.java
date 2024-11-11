@@ -11,17 +11,9 @@ public class Cliente {
             int monto = in.nextInt();
             String tipo = in.nextLine();
 
-            if(!tipo.equals("P") || !tipo.equals("R") || !tipo.equals("D") ||  !tipo.equals("S") || !tipo.equals("E")){
-                System.out.println("El tipo de cambio que a selecionado no existe");
-                return;
-            }
-
             System.out.println("A que moneda desea convertir el monto");
             String conversion = in.nextLine();
-            if(!conversion.equals("P") || !conversion.equals("R") || !conversion.equals("D") ||  !conversion.equals("S") || !conversion.equals("E")){
-                System.out.println("El tipo de cambio que a selecionado no existe");
-                return;
-            }
+
 
             try(Socket socket = new Socket("localhost", 12345);
                 //recibir

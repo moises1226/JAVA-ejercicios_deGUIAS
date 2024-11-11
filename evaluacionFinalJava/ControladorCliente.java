@@ -20,17 +20,17 @@ public class ControladorCliente extends Thread{ // texto reverse  multi
         try (Scanner in = new Scanner(socket.getInputStream());
              PrintWriter out = new PrintWriter(socket.getOutputStream(), true))
         {
-            String text = in.nextLine();
+            int monto = in.nextInt();
 
 
-            if (text != null)
-            {
-                String text2 = reverse(text);
-                System.out.println("EchoServer echoing text: " + text2);
-
-                out.println(text2);
-                out.flush();
-            }
+//            if (text != null)
+//            {
+//                String text2 = reverse(text);
+//                System.out.println("EchoServer echoing text: " + text2);
+//
+//                out.println(text2);
+//                out.flush();
+//            }
 
         } catch (Exception e) {
             System.err.println("Error communicating with client");
@@ -48,7 +48,7 @@ public class ControladorCliente extends Thread{ // texto reverse  multi
         }
     }
 
-    public static String reverse(String text)
+    public static void reverse(String text)
     {
         String text2 = null;
         char[] cText = new char[text.length()];
@@ -66,6 +66,6 @@ public class ControladorCliente extends Thread{ // texto reverse  multi
 
         text2 = String.valueOf(cText);
 
-        return text2;
+
     }
 }
